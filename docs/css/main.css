@@ -1,0 +1,16 @@
+.main-section {
+    background: grey;
+    min-height: 100px;
+}
+
+.footer {
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.header {
+    padding: 50px;
+    background: aqua;
+    text-align: center;
+}
