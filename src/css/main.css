@@ -8,3 +8,9 @@
     text-align: center;
     padding-top: 50px;
 }
+
+.header {
+    padding: 50px;
+    background: aqua;
+    text-align: center;
+}
