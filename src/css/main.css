@@ -1,4 +1,4 @@
-.header {
-    padding: 50px;
-    background: aqua;
+.main-section {
+    background: grey;
+    min-height: 100px;
 }
